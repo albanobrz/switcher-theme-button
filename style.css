@@ -15,6 +15,7 @@ body {
     color: black;
     font-family: 'Oswald', sans-serif;
     font-size: 1.4em;
+    transition: 0.3s;
 }
 
 .ball-left {
@@ -86,6 +87,7 @@ button img {
 .dark {
     background: #292C35;
     color: white;
+    transition: 0.3s;
 }
 
 
